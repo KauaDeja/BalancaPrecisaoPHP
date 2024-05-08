@@ -17,14 +17,14 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/dashboard', function() {
+Route::get('/dashboard', function () {
     return view('dashboard');
 });
 
-Route::get('/quem-somos', function() {
-    return view('quem_somos');
-});
+//Route::get('/quem-somos', function() {
+//    return view('quem_somos');
+//});
 
-Route::get('/login', function() {
+Route::get('/login', function () {
     return view('login');
 });
