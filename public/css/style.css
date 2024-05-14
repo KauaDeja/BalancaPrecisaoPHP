@@ -287,8 +287,8 @@ main section {
 }
 
 .nosso-projeto-img img {
-    width: 100%;
-    height: 100%;
+    max-width: 430px; /* ou qualquer outro valor desejado */
+    max-height: 500px; /* ou qualquer outro valor desejado */
     object-fit: cover;
     border-radius: var(--def-radius);
     box-shadow: 0 0 10px black;

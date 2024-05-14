@@ -29,7 +29,7 @@
                     </nav>
                 </li>
                 <li><a class="link" href="https://657302d90f93470008c87057.tago.run/">Dashboard</a></li>
-                <li><a class="btn" href="/login">Entrar</a></li>
+                <li><a class="btn" href="/login">Estoque</a></li>
             </ul>
         </nav>
     </div>
